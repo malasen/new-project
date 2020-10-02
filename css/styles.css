@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  src: ;
+}
+
 body {
   background: yellowgreen;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,7 +11,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
   color: brown;
 }
 nav li {
