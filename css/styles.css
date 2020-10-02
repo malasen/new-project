@@ -2,3 +2,35 @@ body {
   background: yellowgreen;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1,
+h2,
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: brown;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  color: £000;
+  text-decoration: none;
+  padding: 10px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+nav ul {
+  padding: 0px;
+}
+.active {
+  background-color: brown;
+  color: aliceblue;
+}
+footer::before,
+footer::after {
+  content: "/";
+  color: brown;
+  font-size: 30px;
+  font-weight: bold;
+}
