@@ -24,7 +24,7 @@ nav ul {
   padding: 0px;
 }
 header {
-  background-image: url("images/background.jpeg");
+  background-image: url(/images/backgound.jpeg);
 }
 section {
   background-color: cadetblue;
