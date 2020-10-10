@@ -23,6 +23,10 @@ nav a:hover {
 nav ul {
   padding: 0px;
 }
+header {
+  background-image: url(images/backround.jpg);
+}
+
 .active {
   background-color: brown;
   color: aliceblue;
