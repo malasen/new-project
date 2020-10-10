@@ -24,11 +24,12 @@ nav ul {
   padding: 0px;
 }
 header {
-  background-image: url("/images/backgound.jpeg");
+  background-image: url("background.jpeg");
+  min-height: 100px;
 }
 section {
   background-color: cadetblue;
-  border: 3px #000;
+  border: 3px black;
   padding: 40px 20px 10px 30px;
   margin: 40px 20px 10px 30px;
 }
