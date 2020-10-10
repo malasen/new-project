@@ -16,8 +16,6 @@ nav a {
   color: £000;
   text-decoration: none;
   padding: 10px;
-  background-image: url("backgound.jpeg");
-  min-height: 100px;
 }
 nav a:hover {
   text-decoration: underline;
@@ -26,6 +24,8 @@ nav ul {
   padding: 0px;
 }
 header {
+  background-image: url("background.jpeg");
+  min-height: 100px;
 }
 section {
   background-color: cadetblue;
