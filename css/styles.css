@@ -24,7 +24,7 @@ nav ul {
   padding: 0px;
 }
 header {
-  background-image: url(images/background.jpeg);
+  background-image: url("images/background.jpeg");
 }
 
 .active {
