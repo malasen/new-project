@@ -23,7 +23,12 @@ nav a:hover {
 nav ul {
   padding: 0px;
 }
-
+header {
+  background-image: url("background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 400px;
+}
 section {
   background-color: cadetblue;
   border: 20px black;
