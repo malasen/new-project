@@ -44,3 +44,7 @@ footer::after {
   font-size: 30px;
   font-weight: bold;
 }
+.fallcollection {
+  max-width: 200px;
+  border-radius: 5%;
+}
