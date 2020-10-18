@@ -24,11 +24,8 @@ nav ul {
   padding: 0px;
 }
 header {
-  header {
-    background-image: url(images/background.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
+  background-image: url("images/background.jpeg");
+  min-height: 400px;
 }
 section {
   background-color: cadetblue;
