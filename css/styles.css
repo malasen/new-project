@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url("images/background.jpg");
+  background-image: url("background.jpeg");
 }
 
 h1,
@@ -23,8 +23,7 @@ nav a:hover {
 nav ul {
   padding: 0px;
 }
-header {
-}
+
 section {
   background-color: cadetblue;
   border: 20px black;
