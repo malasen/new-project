@@ -9,7 +9,7 @@ h3 {
   color: #113340;
 }
 nav li {
-  display: inline-block;
+  display: inline-flex;
   background-color: gray;
 }
 nav a {
