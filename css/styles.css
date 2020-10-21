@@ -10,19 +10,18 @@ h3 {
 }
 nav li {
   display: inline-block;
-  background-color: gray;
 }
 nav a {
   color: £000;
   text-decoration: none;
   padding: 10px;
-  background-color: gray;
 }
 nav a:hover {
   text-decoration: underline;
 }
 nav ul {
   padding: 15px;
+  background-color: gray;
 }
 header {
   background-image: url("../images/background.jpg");
