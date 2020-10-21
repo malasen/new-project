@@ -21,7 +21,7 @@ nav a:hover {
 }
 nav ul {
   padding: 15px;
-  background-color: rgb(128, 128, 128, 0.5);
+  background-color: rgb(128, 128, 128, 0.7);
 }
 header {
   background-image: url("../images/background.jpg");
