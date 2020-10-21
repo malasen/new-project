@@ -50,3 +50,6 @@ footer::after {
   max-width: 200px;
   border-radius: 5%;
 }
+.logo {
+  max-width: 100px;
+}
