@@ -10,6 +10,7 @@ h3 {
 }
 nav li {
   display: inline-block;
+  background-color: gray;
 }
 nav a {
   color: £000;
@@ -35,7 +36,7 @@ section {
   margin: 40px 20px 10px 30px;
 }
 .active {
-  background-color: brown;
+  background-color: rgb(241, 157, 0);
   color: aliceblue;
 }
 footer::before,
