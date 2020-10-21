@@ -15,7 +15,8 @@ nav li {
 nav a {
   color: £000;
   text-decoration: none;
-  padding: 0px;
+  padding: 15px;
+  background-color: gray;
 }
 nav a:hover {
   text-decoration: underline;
