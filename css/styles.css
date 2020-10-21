@@ -9,13 +9,13 @@ h3 {
   color: #113340;
 }
 nav li {
-  display: grid;
+  display: inline-block;
   background-color: gray;
 }
 nav a {
   color: £000;
   text-decoration: none;
-  padding: 10px;
+  padding: 0px;
 }
 nav a:hover {
   text-decoration: underline;
