@@ -11,7 +11,7 @@ h3 {
 nav {
   display: inline-block;
 }
-nav a {
+.leftnav {
   color: £000;
   text-decoration: none;
   padding: 10px;
@@ -19,7 +19,9 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
-nav {
+.leftnav,
+.rightnav,
+.logo {
   padding: 15px;
   background-color: rgb(128, 128, 128, 0.7);
 }
