@@ -10,6 +10,7 @@ h3 {
 }
 .navbar {
   display: inline-block;
+  size: cover;
 }
 nav li {
   display: inline-block;
