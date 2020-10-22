@@ -25,11 +25,15 @@ nav li {
   color: £000;
   text-decoration: none;
   padding: 10px;
-  float: inline-start;
+  float: left;
 }
 
 .rightnav {
-  float: inline-end;
+  float: right;
+}
+.logo {
+  position: absolute;
+  float: none;
 }
 nav a:hover {
   text-decoration: underline;
