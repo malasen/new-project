@@ -9,6 +9,7 @@ h3 {
   color: #113340;
 }
 .navbar {
+  overflow: hidden;
   display: block;
   background-color: rgb(128, 128, 128, 0.7);
   width: 100%;
