@@ -10,8 +10,7 @@ h3 {
 }
 .navbar {
   display: inline-block;
-  padding-right: 0;
-  padding-left: 0;
+  width: 100%;
 }
 nav li {
   display: inline-block;
