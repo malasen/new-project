@@ -9,7 +9,6 @@ h3 {
   color: #113340;
 }
 nav {
-  display: inline-block;
 }
 .leftnav {
   color: £000;
@@ -22,6 +21,7 @@ nav a:hover {
 .leftnav,
 .rightnav,
 .logo {
+  display: inline-block;
   padding: 15px;
   background-color: rgb(128, 128, 128, 0.7);
 }
