@@ -22,13 +22,11 @@ nav li {
   color: £000;
   text-decoration: none;
   padding: 10px;
-  text-align: left;
+  float: inline-start;
 }
-.logo {
-  vertical-align: text-top;
-}
+
 .rightnav {
-  text-align: right;
+  float: inline-end;
 }
 nav a:hover {
   text-decoration: underline;
