@@ -41,8 +41,6 @@ nav li {
 }
 .logo {
   position: absolute;
-  float: none;
-  overflow: hidden;
 }
 nav a:hover {
   text-decoration: underline;
