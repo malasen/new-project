@@ -8,7 +8,7 @@ h3 {
   font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
   color: #113340;
 }
-nav {
+nav a {
   display: inline-block;
 }
 nav li {
