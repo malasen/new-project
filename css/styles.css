@@ -9,9 +9,12 @@ h3 {
   color: #113340;
 }
 .navbar {
-  display: inline-block;
+  display: block;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
+
 nav li {
   display: inline-block;
 }
