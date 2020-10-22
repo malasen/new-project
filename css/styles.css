@@ -50,8 +50,6 @@ header {
   min-height: 400px;
 }
 section {
-  background-color: cadetblue;
-  border: 20px black;
   padding: 40px 20px 10px 30px;
   margin: 40px 20px 10px 30px;
 }
