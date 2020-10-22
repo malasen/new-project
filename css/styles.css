@@ -11,20 +11,29 @@ h3 {
 nav li {
   display: inline-block;
 }
-.leftnav {
-  color: £000;
-  text-decoration: none;
-  padding: 10px;
-}
-nav a:hover {
-  text-decoration: underline;
-}
+
 .leftnav,
 .rightnav,
 .logo {
   padding: 15px;
   background-color: rgb(128, 128, 128, 0.7);
 }
+.leftnav {
+  color: £000;
+  text-decoration: none;
+  padding: 10px;
+  text-align: left;
+}
+.logo {
+  vertical-align: text-top;
+}
+.rightnav {
+  text-align: right;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
 header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
