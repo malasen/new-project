@@ -8,7 +8,8 @@ h3 {
   font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
   color: #113340;
 }
-nav {
+nav li {
+  display: inline-block;
 }
 .leftnav {
   color: £000;
@@ -21,7 +22,6 @@ nav a:hover {
 .leftnav,
 .rightnav,
 .logo {
-  display: inline-block;
   padding: 15px;
   background-color: rgb(128, 128, 128, 0.7);
 }
