@@ -79,7 +79,7 @@ section h2 {
 aside {
   position: relative;
   display: inline-block;
-  block-size: 50 %;
+  block-size: 50%;
   background-color: white;
 }
 .active {
