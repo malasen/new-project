@@ -25,10 +25,10 @@ nav li {
 }
 
 .leftnav,
-.rightnav,
-.logo {
+.rightnav {
   padding: 15px;
 }
+
 .leftnav {
   color: £000;
   text-decoration: none;
@@ -40,7 +40,7 @@ nav li {
   float: right;
 }
 .logo {
-  position: absolute;
+  position: center;
 }
 nav a:hover {
   text-decoration: underline;
