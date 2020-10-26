@@ -45,6 +45,9 @@ nav li {
   max-width: 200px;
   text-align: center;
 }
+.logo img {
+  display: inline-block;
+}
 nav a:hover {
   text-decoration: underline;
 }
