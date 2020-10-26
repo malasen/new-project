@@ -1,13 +1,10 @@
+@import "imports/variables.css";
+@import "imports/typography.css";
+@import "imports/layout.css";
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
-}
-
-h1,
-h2,
-h3 {
-  font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
-  color: #113340;
 }
 .navbar {
   overflow: hidden;
