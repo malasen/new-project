@@ -77,9 +77,16 @@ section {
   max-width: 850px;
 }
 section div {
+  position: relative;
+  float: right;
+  padding: 20px;
+  margin: 150px 50px 70px;
 }
 section h3 {
-  background-color: white;
+  position: relative;
+  float: right;
+  padding: 20px;
+  margin: 150px 50px 70px;
 }
 aside {
   position: relative;
