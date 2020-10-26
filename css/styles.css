@@ -79,6 +79,8 @@ section h2 {
   position: relative;
   float: right;
   padding: 20px;
+  background-color: white;
+  border: 2px black;
 }
 aside {
   position: relative;
