@@ -61,6 +61,7 @@ header {
 }
 
 section {
+  display: block;
   position: relative;
   bottom: 400px;
   left: 50px;
