@@ -67,6 +67,9 @@ section {
   left: 50px;
   background-color: white;
 }
+aside {
+  background-color: white;
+}
 .active {
   background-color: rgb(241, 157, 0);
   color: aliceblue;
