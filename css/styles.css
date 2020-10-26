@@ -39,7 +39,7 @@ nav li {
 .rightnav {
   position: relative;
   float: right;
-  top: 5px;
+  top: 10px;
 }
 .logo {
   display: inline-block;
