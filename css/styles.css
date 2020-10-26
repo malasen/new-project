@@ -74,6 +74,7 @@ section {
   position: relative;
   float: left;
   size: contain;
+  max-width: 600px;
 }
 section h2 {
   position: relative;
