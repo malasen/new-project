@@ -60,6 +60,9 @@ section {
   background-color: rgb(241, 157, 0);
   color: aliceblue;
 }
+footer {
+  text-align: center;
+}
 footer::before,
 footer::after {
   content: "/";
