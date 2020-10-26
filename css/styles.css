@@ -71,7 +71,7 @@ section {
   background-size: 60%;
   max-width: 300px;
 }
-section p {
+section h2 {
   position: relative;
   float: right;
   background-color: white;
