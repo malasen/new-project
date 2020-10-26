@@ -76,7 +76,9 @@ section {
   size: contain;
   max-width: 850px;
 }
-section h2 {
+section div {
+}
+section h3 {
   position: relative;
   float: right;
   padding: 20px;
