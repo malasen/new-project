@@ -74,6 +74,7 @@ section {
 section h2 {
   position: relative;
   float: right;
+  padding: 4px;
 }
 aside {
   position: relative;
