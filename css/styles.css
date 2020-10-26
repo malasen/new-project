@@ -55,7 +55,7 @@ header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: top right;
+  background-position: 10px 100px;
   min-height: 1000px;
   text-align: center;
 }
