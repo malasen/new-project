@@ -51,7 +51,7 @@ header {
   background-repeat: no-repeat;
   background-size: 100% auto;
   min-height: 400px;
-  min-width: 1500px;
+  position: center bottom;
 }
 section {
   padding: 40px 20px 10px 30px;
