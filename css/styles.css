@@ -14,8 +14,8 @@ h3 {
   display: block;
   background-color: rgba(184, 179, 179, 0.7);
   width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 1px;
+  padding: 1px;
   position: absolute;
   top: 90px;
 }
