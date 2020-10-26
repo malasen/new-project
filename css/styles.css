@@ -59,11 +59,23 @@ header {
   text-align: center;
   margin: 0;
 }
+
 section {
   position: relative;
   bottom: 400px;
   left: 50px;
   background-color: white;
+}
+.fallcollection {
+  position: relative;
+  float: left;
+  background-size: 60%;
+  max-width: 300px;
+  border-radius: 5%;
+}
+section p {
+  position: relative;
+  float: right;
 }
 aside {
   padding: 40px 20px 10px 30px;
@@ -85,9 +97,4 @@ footer::after {
   content: "/";
   color: black;
   font-size: 30px;
-}
-.fallcollection {
-  background-size: 60%;
-  max-width: 300px;
-  border-radius: 5%;
 }
