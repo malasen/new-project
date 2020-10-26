@@ -59,8 +59,7 @@ header {
 
 section {
   display: inline-block;
-  min-height: 600px;
-  min-width: 1200px;
+  block-size: 50%;
   position: relative;
   bottom: 400px;
   left: 50px;
