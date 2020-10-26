@@ -73,7 +73,8 @@ section {
 .fallcollection {
   position: relative;
   float: left;
-  size: 20%;
+  size: contain;
+  max-width: 400px;
 }
 section h2 {
   position: relative;
