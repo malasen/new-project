@@ -65,7 +65,7 @@ section {
   display: inline-block;
   block-size: 50%;
   position: relative;
-  bottom: 500px;
+  bottom: 300px;
   left: 50px;
   background-color: gray;
   border: 1px thin gray;
@@ -81,7 +81,7 @@ section h2 {
   padding: 20px;
   background-color: white;
   border: 2px black;
-  margin: 100px 30px 70px 30px;
+  margin: 200px 50px 70px 50px;
 }
 aside {
   position: relative;
