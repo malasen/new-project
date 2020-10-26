@@ -9,7 +9,6 @@ body {
   overflow: hidden;
   display: block;
   background-color: rgba(184, 179, 179, 0.7);
-  background-position: 100px 5px;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -56,6 +55,7 @@ header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: top right;
   min-height: 1000px;
   text-align: center;
 }
