@@ -64,6 +64,8 @@ section {
   position: relative;
   bottom: 400px;
   left: 50px;
+  background-color: white;
+  border: thin gray;
 }
 .fallcollection {
   position: relative;
@@ -74,7 +76,6 @@ section {
 section h2 {
   position: relative;
   float: right;
-  background-color: white;
 }
 aside {
   padding: 40px 20px 10px 30px;
