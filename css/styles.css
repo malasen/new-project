@@ -32,6 +32,7 @@ nav li {
 
 .leftnav {
   float: left;
+  padding: 30px;
 }
 
 .rightnav {
