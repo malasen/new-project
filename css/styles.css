@@ -83,7 +83,7 @@ aside {
   position: relative;
   display: inline-block;
   min-height: 600px;
-  min-width: 1200px;
+  min-width: 100px;
   background-color: white;
 }
 .active {
