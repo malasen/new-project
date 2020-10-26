@@ -57,6 +57,7 @@ header {
   background-size: contain;
   min-height: 1000px;
   text-align: center;
+  margin: 0;
 }
 section {
   padding: 40px 20px 10px 30px;
