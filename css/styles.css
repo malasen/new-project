@@ -62,8 +62,8 @@ header {
 
 section {
   display: inline-block;
-  min-height: 300px;
-  min-width: 200px;
+  min-height: 600px;
+  min-width: 1200px;
   position: relative;
   bottom: 400px;
   left: 50px;
@@ -73,8 +73,7 @@ section {
 .fallcollection {
   position: relative;
   float: left;
-  background-size: 60%;
-  max-width: 300px;
+  background-size: contain;
 }
 section h2 {
   position: relative;
