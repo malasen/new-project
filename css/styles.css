@@ -43,7 +43,7 @@ nav li {
 }
 .logo {
   max-width: 200px;
-  position: relative;
+  position: absolute;
   float: left 200px;
 }
 nav a:hover {
