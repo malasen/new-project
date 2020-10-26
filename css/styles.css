@@ -49,9 +49,7 @@ nav a:hover {
 header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  min-height: 600px;
+  background-size: 100% auto;
 }
 section {
   padding: 40px 20px 10px 30px;
