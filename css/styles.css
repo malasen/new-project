@@ -38,6 +38,7 @@ nav li {
 
 .rightnav {
   float: right;
+  margin-top: 2px;
 }
 .logo {
   display: inline-block;
