@@ -67,8 +67,8 @@ section {
   position: relative;
   bottom: 300px;
   left: 50px;
-  background-color: gray;
-  border: 1px thin gray;
+  background-color: rgb(187, 183, 183);
+  border: 1px thin rgb(102, 98, 98);
 }
 .fallcollection {
   position: relative;
