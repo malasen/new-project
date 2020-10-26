@@ -79,8 +79,7 @@ section {
 section div {
 }
 section h3 {
-  position: relative;
-  float: right;
+  background-color: white;
 }
 aside {
   position: relative;
