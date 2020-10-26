@@ -24,10 +24,15 @@ nav li {
   display: inline-block;
 }
 
-.leftnav {
+.leftnav,
+.rightnav {
+  padding: 15px;
   color: £000;
   text-decoration: none;
   padding: 10px;
+}
+
+.leftnav {
   float: left;
 }
 
