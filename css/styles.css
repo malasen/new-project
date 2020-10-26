@@ -67,6 +67,9 @@ section {
   background-color: rgb(241, 157, 0);
   color: aliceblue;
 }
+a {
+  color: inherit;
+}
 footer {
   text-align: center;
 }
