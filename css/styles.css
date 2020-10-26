@@ -24,11 +24,6 @@ nav li {
   display: inline-block;
 }
 
-.leftnav,
-.rightnav {
-  padding: 15px;
-}
-
 .leftnav {
   color: £000;
   text-decoration: none;
