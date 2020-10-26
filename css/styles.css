@@ -45,7 +45,7 @@ nav li {
   display: inline-block;
   width: 500px;
   position: relative;
-  bottom: 20px;
+  bottom: 50px;
 }
 nav a:hover {
   text-decoration: underline;
