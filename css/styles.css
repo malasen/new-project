@@ -42,7 +42,8 @@ nav li {
   float: right;
 }
 .logo {
-  position: center;
+  position: left 500px;
+  max-width: 200px;
 }
 nav a:hover {
   text-decoration: underline;
@@ -75,7 +76,4 @@ footer::after {
 .fallcollection {
   max-width: 300px;
   border-radius: 5%;
-}
-.logo {
-  max-width: 200px;
 }
