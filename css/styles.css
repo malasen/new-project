@@ -42,9 +42,8 @@ nav li {
   float: right;
 }
 .logo {
-  max-width: 200px;
-  position: relative;
-  left: 400px;
+  display: inline-block;
+  width: 400px;
 }
 nav a:hover {
   text-decoration: underline;
@@ -55,6 +54,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 500px;
+  text-align: center;
 }
 section {
   padding: 40px 20px 10px 30px;
