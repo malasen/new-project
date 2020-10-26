@@ -37,6 +37,7 @@ nav li {
 }
 
 .rightnav {
+  position: relative;
   float: right;
   top: 5px;
 }
