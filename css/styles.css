@@ -16,7 +16,7 @@ h3 {
   width: 100%;
   margin: 0;
   padding: 0;
-  position: absolute;
+  position: relative;
   top: 90px;
 }
 
@@ -77,5 +77,5 @@ footer::after {
   border-radius: 5%;
 }
 .logo {
-  max-width: 100px;
+  max-width: 200px;
 }
