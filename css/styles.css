@@ -64,6 +64,8 @@ section {
   margin: 40px 20px 10px 30px;
   position: relative;
   bottom: 400px;
+  left: 50px;
+  background-color: white;
 }
 .active {
   background-color: rgb(241, 157, 0);
