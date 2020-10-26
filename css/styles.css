@@ -44,7 +44,7 @@ nav li {
 .logo {
   max-width: 200px;
   position: absolute;
-  float: left 200px;
+  left: 200px;
 }
 nav a:hover {
   text-decoration: underline;
