@@ -2,10 +2,6 @@
 @import "imports/typography.css";
 @import "imports/layout.css";
 
-body {
-  margin: 0;
-  padding: 0;
-}
 .navbar {
   overflow: hidden;
   display: block;
