@@ -69,7 +69,7 @@ section {
 .fallcollection {
   position: relative;
   float: left;
-  background-size: contain;
+  size: 70%;
 }
 section h2 {
   position: relative;
@@ -78,8 +78,7 @@ section h2 {
 aside {
   position: relative;
   display: inline-block;
-  min-height: 600px;
-  min-width: 100px;
+  block-size: 50 %;
   background-color: white;
 }
 .active {
