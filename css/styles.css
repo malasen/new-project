@@ -67,9 +67,8 @@ footer {
 footer::before,
 footer::after {
   content: "/";
-  color: brown;
+  color: black;
   font-size: 30px;
-  font-weight: bold;
 }
 .fallcollection {
   max-width: 300px;
