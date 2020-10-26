@@ -80,6 +80,9 @@ section h2 {
   float: right;
 }
 aside {
+  display: inline-block;
+  min-height: 600px;
+  min-width: 1200px;
   background-color: white;
 }
 .active {
