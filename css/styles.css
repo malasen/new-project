@@ -54,7 +54,7 @@ nav a:hover {
 header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: top right;
   min-height: 800px;
   text-align: center;
