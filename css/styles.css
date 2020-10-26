@@ -67,7 +67,7 @@ section {
   position: relative;
   bottom: 400px;
   left: 50px;
-  background-color: white;
+  background-color: gray;
   border: 1px thin gray;
 }
 .fallcollection {
