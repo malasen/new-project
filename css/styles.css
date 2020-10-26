@@ -79,6 +79,7 @@ section {
 section div {
   position: relative;
   float: right;
+  text-align: center;
   padding: 20px;
   margin: 150px 100px 70px;
 }
