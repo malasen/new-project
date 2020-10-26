@@ -43,10 +43,7 @@ nav li {
 }
 .logo {
   max-width: 200px;
-  text-align: center;
-}
-.logo img {
-  display: inline-block;
+  align-items: center;
 }
 nav a:hover {
   text-decoration: underline;
