@@ -110,10 +110,7 @@ aside {
   block-size: 50%;
   background-color: white;
 }
-.fall {
-  display: inline-block;
-  size: 600px;
-}
+
 .active {
   background-color: rgb(241, 157, 0);
   color: aliceblue;
@@ -143,5 +140,9 @@ footer::after {
     position: relative;
     right: 15px;
     bottom: 100px;
+  }
+  .fall {
+    display: block;
+    size: 200px;
   }
 }
