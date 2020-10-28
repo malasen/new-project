@@ -157,7 +157,7 @@ footer::after {
   .fallcollection {
     max-width: 360px;
   }
-  section {
+  .fall {
     display: inline-block;
     left: 0px;
     top: 0px;
