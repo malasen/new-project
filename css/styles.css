@@ -152,6 +152,13 @@ a {
   max-width: 370px;
   min-height: fit-content;
 }
+.leftcontainer h2 {
+  position: relative;
+  margin-left: 50%;
+  margin-right: 50%;
+  width: 100px;
+  top: 50px;
+}
 footer {
   text-align: center;
 }
