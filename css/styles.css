@@ -194,6 +194,12 @@ footer::after {
     top: 0px;
     max-height: 400px;
   }
+  aside {
+    display: inline-block;
+    left: 0px;
+    top: 0px;
+    max-height: 400px;
+  }
   .insta {
     max-width: 360px;
   }
