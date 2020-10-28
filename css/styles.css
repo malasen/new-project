@@ -179,6 +179,7 @@ footer::after {
     padding: 0;
     margin: 0;
     float: bottom center;
+    right: 50%;
   }
   .fall h3 {
     position: relative;
