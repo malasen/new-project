@@ -120,4 +120,7 @@ footer::after {
     position: relative;
     bottom: 150px;
   }
+  header {
+    min-height: 400px;
+  }
 }
