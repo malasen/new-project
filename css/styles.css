@@ -172,11 +172,11 @@ a {
 }
 .rightcontainer {
   position: relative;
-  left: 20%;
+  left: 5%;
 }
 .rightcontainer .button {
   position: relative;
-  right: 5%;
+  right: 18%;
   bottom: 100px;
 }
 footer {
