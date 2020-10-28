@@ -170,6 +170,8 @@ footer::after {
   .rightnav {
     float: left;
     bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .fallcollection {
     max-width: 100%;
