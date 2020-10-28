@@ -137,7 +137,7 @@ footer::after {
   }
   .rightnav {
     position: relative;
-    right: 30px;
+    right: 15px;
     bottom: 100px;
   }
 }
