@@ -139,7 +139,7 @@ aside {
 }
 .jacketicon {
   max-width: 25%;
-  background-origin: solid 2px var(--border);
+  border: 2px solid var(--border);
 }
 .active {
   background-color: var(--orange);
