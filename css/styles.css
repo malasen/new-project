@@ -147,9 +147,9 @@ a {
 }
 .leftcontainer {
   position: relative;
-  bottom: 12px;
+  bottom: 10px;
   background-color: var(--gray);
-  max-width: 350px;
+  max-width: 370px;
   min-height: fit-content;
 }
 footer {
