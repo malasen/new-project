@@ -1,5 +1,8 @@
 :root {
-  --bright-blue: #2b88ff;
+  --orange: #ddac4f;
+  --grey: #dddddd;
   --white: #fff;
-  --horizontal-space: 0px 10px;
+  --nav: hsl(0, 0%, 72%, 0.7);
+  --border: #707070;
+  --box: rgb(255, 255, 255, 0.7);
 }
