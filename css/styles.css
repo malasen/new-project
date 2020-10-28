@@ -114,7 +114,7 @@ aside {
   flex-direction: row;
   position: relative;
   left: 0px;
-  right: px;
+  right: 0px;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
