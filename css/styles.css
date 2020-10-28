@@ -126,5 +126,6 @@ footer::after {
   nav li {
     padding-left: 20x;
     padding-right: 10px;
+    float: center;
   }
 }
