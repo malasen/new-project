@@ -268,9 +268,11 @@ footer::after {
     width: 100%;
   }
   .rightcontainer .button {
-    margin-left: auto;
+    position: relative;
+    float: none;
     margin-right: auto;
-    top: auto;
-    bottom: auto;
+    margin-left: auto;
+    bottom: 50px;
+    padding: 20px 5px;
   }
 }
