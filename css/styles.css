@@ -73,7 +73,7 @@ header {
   margin: 0;
 }
 
-section {
+.fall {
   display: inline-block;
   block-size: 50%;
   position: relative;
@@ -88,14 +88,14 @@ section {
   size: contain;
   max-width: 850px;
 }
-section div {
+.fall div {
   position: relative;
   float: right;
   text-align: center;
   padding: 20px;
   margin: 75px 85px 50px;
 }
-section h3 {
+.fall h3 {
   position: relative;
   float: right;
   padding: 5px 40px;
@@ -110,14 +110,16 @@ aside {
   block-size: 50%;
   background-color: white;
 }
-.rainjacketicon {
+.quickbrowse {
+  flex-direction: row;
   position: relative;
   display: inline-block;
-  border: 2px solid black;
-  size: 200px;
-  margin-left: 20px;
+  background-color: rgb(187, 183, 183);
+  border: 1px thin rgb(102, 98, 98);
 }
-
+.jacketicon {
+  max-width: 200px;
+}
 .active {
   background-color: rgb(241, 157, 0);
   color: aliceblue;
