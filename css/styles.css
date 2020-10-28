@@ -114,3 +114,8 @@ footer::after {
   color: black;
   font-size: 30px;
 }
+@media only screen and (max-width: 600px) {
+  .logo {
+    width: 200px;
+  }
+}
