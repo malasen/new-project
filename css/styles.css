@@ -154,9 +154,8 @@ footer::after {
     padding-right: 25px;
   }
   .rightnav {
-    position: relative;
-    right: 15px;
-    bottom: 100px;
+    float: left;
+    bottom: 50px;
   }
   .fallcollection {
     max-width: 360px;
