@@ -172,7 +172,7 @@ a {
 }
 .rightcontainer {
   position: relative;
-  left: 10%;
+  left: 5%;
   display: flex;
   flex-direction: row;
 }
@@ -182,6 +182,10 @@ a {
   top: 270px;
   max-width: 100px;
   max-height: 30px;
+}
+aside h1 {
+  position: relative;
+  left: 5%;
 }
 footer {
   text-align: center;
