@@ -95,7 +95,7 @@ header {
   padding: 20px;
   margin: 75px 85px 50px;
 }
-.fall h3 {
+.button {
   position: relative;
   float: right;
   padding: 5px 40px;
@@ -188,7 +188,7 @@ footer::after {
     margin-left: auto;
     top: 20px;
   }
-  .fall h3 {
+  .button {
     position: relative;
     float: none;
     margin-right: auto;
