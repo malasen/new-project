@@ -16,7 +16,12 @@ footer {
 .quickbrowse {
   grid-area: browse;
 }
-
+.quickbrowse1 {
+  grid-area: browse1;
+}
+.quickbrowse2 {
+  grid-area: browse2;
+}
 body {
   display: grid;
   grid-gap: 10px;
@@ -25,6 +30,8 @@ body {
     "header header"
     "main aside"
     "browse browse"
+    "browse1 browse1"
+    "browse2 browse2"
     "footer footer";
   grid-template-rows: auto 1fr auto auto;
 }
