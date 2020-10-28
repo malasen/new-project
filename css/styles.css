@@ -50,7 +50,14 @@ nav li {
 nav a:hover {
   text-decoration: underline;
 }
-
+.contact {
+  position: absolute;
+  padding: 5px 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 70px 100px 10px;
+  background-color: white;
+}
 header {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
@@ -118,7 +125,7 @@ footer::after {
   .logo {
     width: 200px;
     position: relative;
-    bottom: 150px;
+    bottom: 100px;
   }
   header {
     min-height: 400px;
