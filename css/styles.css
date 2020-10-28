@@ -96,13 +96,15 @@ header {
   margin: 75px 85px 50px;
 }
 .button {
-  position: relative;
-  float: right;
   padding: 5px 40px;
   border: 1px solid black;
   border-radius: 5px;
-  margin: 70px 100px 10px;
   background-color: white;
+}
+.fall .button {
+  position: relative;
+  float: right;
+  margin: 70px 100px 10px;
 }
 aside {
   position: relative;
