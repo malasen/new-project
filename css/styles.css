@@ -112,9 +112,9 @@ aside {
 }
 .quickbrowse {
   flex-direction: row;
-  position: absolute;
+  position: relative;
   left: 0px;
-  right: 0px;
+  right: px;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
