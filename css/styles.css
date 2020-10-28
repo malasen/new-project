@@ -194,4 +194,12 @@ footer::after {
     top: 0px;
     max-height: 400px;
   }
+  .insta {
+    max-width: 360px;
+  }
+  .quickbrowse,
+  .quickbrowse1,
+  .quickbrowse2 {
+    flex-direction: column;
+  }
 }
