@@ -194,6 +194,7 @@ footer::after {
     display: inline-block;
     left: 0px;
     top: 0px;
+    text-align: center;
   }
   aside {
     display: inline-block;
