@@ -141,8 +141,7 @@ footer::after {
     right: 15px;
     bottom: 100px;
   }
-  .fall {
-    display: block;
-    size: 200px;
+  .fallcollection {
+    max-width: 300px;
   }
 }
