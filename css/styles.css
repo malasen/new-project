@@ -123,7 +123,8 @@ footer::after {
   header {
     min-height: 400px;
   }
-  .rightnav {
-    padding: 5px;
+  nav li {
+    padding-left: 5px;
+    padding-right: 10px;
   }
 }
