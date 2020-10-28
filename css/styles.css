@@ -147,6 +147,7 @@ a {
 }
 .leftcontainer {
   position: relative;
+  bottom: 20px;
   background-color: var(--gray);
   max-width: 300px;
   min-height: fit-content;
