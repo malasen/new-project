@@ -167,6 +167,11 @@ footer::after {
     padding-left: 25px;
     padding-right: 25px;
   }
+  .leftnav {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .rightnav {
     float: none;
     bottom: 50px;
