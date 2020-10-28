@@ -176,12 +176,14 @@ footer::after {
   }
   .fall div {
     position: relative;
+    float: none;
     padding: 0;
     margin-right: auto;
     margin-left: auto;
   }
   .fall h3 {
     position: relative;
+    float: none;
     margin-right: auto;
     margin-left: auto;
     bottom: 50px;
