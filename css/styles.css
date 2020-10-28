@@ -110,6 +110,13 @@ aside {
   block-size: 50%;
   background-color: white;
 }
+.rainjacketicon {
+  position: relative;
+  display: inline-block;
+  border: 2px solid black;
+  size: 200px;
+  margin-left: 20px;
+}
 
 .active {
   background-color: rgb(241, 157, 0);
