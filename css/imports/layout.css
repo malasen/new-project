@@ -4,7 +4,7 @@ nav {
 header {
   grid-area: header;
 }
-.fall {
+main {
   grid-area: main;
 }
 aside {
