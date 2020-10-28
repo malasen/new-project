@@ -110,6 +110,7 @@ aside {
   background-color: white;
   margin: 0;
   left: 0;
+  max-width: 700px;
 }
 .insta {
   max-width: fit-content;
