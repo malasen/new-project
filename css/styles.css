@@ -87,7 +87,6 @@ header {
   float: left;
   size: contain;
   max-width: 850px;
-  max-height: 750px;
 }
 .fall div {
   position: relative;
@@ -110,10 +109,10 @@ aside {
   display: inline-block;
   background-color: white;
   margin: 0;
-  left: 0;
+  right: 400px;
 }
 .insta {
-  max-width: 650px;
+  max-width: 750px;
 }
 .quickbrowse,
 .quickbrowse2 {
@@ -121,6 +120,7 @@ aside {
   position: relative;
   left: 0px;
   right: 0px;
+  bottom: 100px;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
