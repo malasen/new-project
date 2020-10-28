@@ -180,8 +180,8 @@ a {
   position: relative;
   right: 250px;
   bottom: 125px;
-  padding: 5px 40px;
-  margin: 0;
+  max-width: 100px;
+  max-height: 50px;
 }
 footer {
   text-align: center;
