@@ -181,6 +181,7 @@ footer::after {
     position: relative;
     padding: 0;
     margin: 0;
+    text-align: center;
   }
   .fall h3 {
     position: relative;
@@ -194,7 +195,6 @@ footer::after {
     display: inline-block;
     left: 0px;
     top: 0px;
-    text-align: center;
   }
   aside {
     display: inline-block;
