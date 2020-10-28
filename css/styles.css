@@ -164,12 +164,11 @@ footer::after {
     min-height: 400px;
   }
   nav li {
-    margin-right: auto;
-    margin-left: auto;
+    padding-left: 25px;
+    padding-right: 25px;
   }
   .rightnav {
-    margin-left: auto;
-    margin-right: auto;
+    float: left;
     bottom: 50px;
   }
   .fallcollection {
