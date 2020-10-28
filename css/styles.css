@@ -53,7 +53,7 @@ nav a:hover {
 .contact {
   position: absolute;
   left: 0px;
-  top: 0px;
+  top: 2px;
   padding: 5px 40px;
   border: 1px solid black;
   border-radius: 5px;
