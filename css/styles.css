@@ -129,7 +129,7 @@ footer::after {
 }
 @media only screen and (max-width: 900px) {
   .logo {
-    width: 200px;
+    width: fit-content;
     position: relative;
     bottom: 70px;
   }
