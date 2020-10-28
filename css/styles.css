@@ -179,13 +179,14 @@ footer::after {
     float: none;
     margin-right: auto;
     margin-left: auto;
+    top: 20px;
   }
   .fall h3 {
     position: relative;
     float: none;
     margin-right: auto;
     margin-left: auto;
-    bottom: 50px;
+    bottom: 250px;
     padding: 20px 5px;
   }
 
