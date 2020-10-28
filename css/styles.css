@@ -180,6 +180,8 @@ a {
   position: relative;
   right: 250px;
   bottom: 125px;
+  padding: 5px 40px;
+  margin: 0;
 }
 footer {
   text-align: center;
@@ -255,5 +257,8 @@ footer::after {
   }
   .leftcontainer {
     max-width: 100%;
+  }
+  .rightcontainer {
+    flex-direction: column;
   }
 }
