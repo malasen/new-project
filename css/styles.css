@@ -185,7 +185,6 @@ footer::after {
     position: relative;
     padding: 5px 40px;
     margin: 0;
-    right: 40px;
     bottom: 50px;
     float: bottom;
   }
