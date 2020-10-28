@@ -113,7 +113,7 @@ aside {
 .quickbrowse {
   flex-direction: row;
   position: relative;
-  max-width: fit-content;
+  max-width: max-content;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
