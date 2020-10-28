@@ -179,7 +179,7 @@ a {
 .rightcontainer .button {
   position: relative;
   right: 250px;
-  top: 50%;
+  top: 100%;
   max-width: 100px;
   max-height: 30px;
 }
