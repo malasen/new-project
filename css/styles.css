@@ -135,4 +135,9 @@ footer::after {
   header {
     min-height: 400px;
   }
+  .rightnav {
+    position: relative;
+    right: 10px;
+    bottom: 20px;
+  }
 }
