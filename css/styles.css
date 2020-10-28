@@ -109,7 +109,7 @@ aside {
   display: inline-block;
   background-color: white;
   margin: 0;
-  right: 150px;
+  right: 120px;
 }
 .insta {
   max-width: 850px;
@@ -120,7 +120,7 @@ aside {
   position: relative;
   left: 0px;
   right: 0px;
-  bottom: 120px;
+  bottom: 150px;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
