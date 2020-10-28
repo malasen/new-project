@@ -172,7 +172,7 @@ footer::after {
     bottom: 50px;
   }
   .fallcollection {
-    max-width: 360px;
+    max-width: 100%;
   }
   .fall div {
     position: relative;
