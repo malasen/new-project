@@ -192,6 +192,7 @@ footer::after {
     display: inline-block;
     left: 0px;
     top: 0px;
+    max-width: 100%;
   }
   aside {
     display: inline-block;
