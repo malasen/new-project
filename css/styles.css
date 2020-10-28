@@ -155,6 +155,9 @@ footer::after {
   font-size: 30px;
 }
 @media only screen and (max-width: 900px) {
+  main {
+    text-align: center;
+  }
   .logo {
     width: 200px;
     position: relative;
@@ -178,8 +181,6 @@ footer::after {
     position: relative;
     padding: 0;
     margin: 0;
-    float: bottom center;
-    right: 50%;
   }
   .fall h3 {
     position: relative;
