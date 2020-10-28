@@ -173,6 +173,8 @@ a {
 .rightcontainer {
   position: relative;
   left: 5%;
+  display: flex;
+  flex-direction: row;
 }
 .rightcontainer .button {
   position: relative;
