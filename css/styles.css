@@ -210,6 +210,5 @@ footer::after {
     left: 0px;
     top: 0px;
     max-height: 400px;
-    flex-direction: column;
   }
 }
