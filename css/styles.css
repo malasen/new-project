@@ -133,10 +133,12 @@ aside {
   bottom: 135px;
   display: block;
 }
-
+.shopicon {
+  max-width: 400px;
+  max-height: 400px;
+}
 .jacketicon {
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 25%;
 }
 .active {
   background-color: var(--orange);
