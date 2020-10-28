@@ -110,7 +110,8 @@ aside {
   block-size: 50%;
   background-color: white;
 }
-.quickbrowse {
+.quickbrowse,
+.quickbrowse2 {
   flex-direction: row;
   position: relative;
   left: 0px;
