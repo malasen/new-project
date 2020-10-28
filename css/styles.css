@@ -270,5 +270,7 @@ footer::after {
   .rightcontainer .button {
     margin-left: auto;
     margin-right: auto;
+    top: auto;
+    bottom: auto;
   }
 }
