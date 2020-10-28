@@ -160,6 +160,8 @@ a {
   width: 150px;
   top: 50px;
   padding: 40px 10px;
+  word-spacing: 1em;
+  line-height: 1.5;
 }
 footer {
   text-align: center;
