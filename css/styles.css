@@ -134,12 +134,11 @@ aside {
   display: block;
 }
 .shopicon {
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 10%;
   border: 2px solid var(--border);
 }
 .jacketicon {
-  max-width: 25%;
+  max-width: 10%;
   border: 2px solid var(--border);
 }
 .active {
