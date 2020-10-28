@@ -107,8 +107,10 @@ header {
 aside {
   position: relative;
   display: inline-block;
-  block-size: 50%;
   background-color: white;
+}
+.insta {
+  max-width: 400px;
 }
 .quickbrowse,
 .quickbrowse2 {
