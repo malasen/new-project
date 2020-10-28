@@ -179,6 +179,7 @@ footer::after {
     right: 150px;
     padding: 0;
     margin: 0;
+    float: bottom;
   }
   .fall h3 {
     position: relative;
@@ -186,13 +187,13 @@ footer::after {
     margin: 0;
     right: 40px;
     bottom: 50px;
+    float: bottom;
   }
 
   .fall {
     display: inline-block;
     left: 0px;
     top: 0px;
-    max-width: 100%;
   }
   aside {
     display: inline-block;
