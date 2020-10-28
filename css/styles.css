@@ -168,7 +168,7 @@ footer::after {
     padding-right: 25px;
   }
   .rightnav {
-    float: left;
+    float: none;
     bottom: 50px;
     margin-left: auto;
     margin-right: auto;
