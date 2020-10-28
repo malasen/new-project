@@ -108,9 +108,10 @@ aside {
   position: relative;
   display: inline-block;
   background-color: white;
+  max-width: 400px;
 }
 .insta {
-  max-width: 400px;
+  max-width: fit-content;
 }
 .quickbrowse,
 .quickbrowse2 {
