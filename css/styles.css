@@ -87,6 +87,7 @@ header {
   float: left;
   size: contain;
   max-width: 850px;
+  max-height: 650px;
 }
 .fall div {
   position: relative;
