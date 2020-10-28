@@ -172,7 +172,7 @@ a {
 }
 .rightcontainer {
   position: relative;
-  left: 5%;
+  left: 10%;
   display: flex;
   flex-direction: row;
 }
