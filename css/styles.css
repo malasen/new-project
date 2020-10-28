@@ -109,7 +109,8 @@ aside {
   display: inline-block;
   background-color: white;
   margin: 0;
-  right: 90px;
+  right: 40px;
+  bottom: 20px;
 }
 .insta {
   max-width: 850px;
