@@ -136,7 +136,7 @@ aside {
   display: block;
 }
 .shopicon {
-  max-width: 400px;
+  max-width: 300px;
   max-height: 600px;
   border: 2px solid var(--border);
 }
