@@ -157,7 +157,7 @@ a {
   bottom: 10px;
   background-color: var(--gray);
   max-width: 370px;
-  min-height: fit-content;
+  min-height: 100%;
   text-align: center;
 }
 .leftcontainer h2 {
