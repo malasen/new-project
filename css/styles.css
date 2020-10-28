@@ -186,8 +186,8 @@ footer::after {
   .fall h3 {
     position: relative;
     padding: 5px 40px;
-    margin: 0 auto;
-    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
     bottom: 50px;
     float: bottom;
   }
