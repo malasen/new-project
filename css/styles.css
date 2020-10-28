@@ -176,7 +176,6 @@ footer::after {
   }
   .fall div {
     position: relative;
-    right: 150px;
     padding: 0;
     margin: 0;
     float: bottom;
