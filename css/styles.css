@@ -140,7 +140,7 @@ aside {
 }
 .active {
   background-color: var(--orange);
-  color: var(--gray);
+  color: white;
 }
 a {
   color: inherit;
