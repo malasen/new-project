@@ -167,7 +167,7 @@ a {
 }
 .rightcontainer {
   position: relative;
-  left: 0px;
+  float: left;
 }
 footer {
   text-align: center;
