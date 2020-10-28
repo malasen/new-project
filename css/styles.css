@@ -136,10 +136,11 @@ aside {
 .shopicon {
   max-width: 400px;
   max-height: 400px;
+  border: 2px solid var(--border);
 }
 .jacketicon {
   max-width: 25%;
-  border: 10px solid black;
+  border: 2px solid var(--border);
 }
 .active {
   background-color: var(--orange);
