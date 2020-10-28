@@ -129,7 +129,7 @@ footer::after {
 }
 @media only screen and (max-width: 900px) {
   .logo {
-    width: fit-content;
+    width: 200px;
     position: relative;
     bottom: 70px;
   }
@@ -142,7 +142,7 @@ footer::after {
     bottom: 100px;
   }
   .fallcollection {
-    max-width: 200px;
+    max-width: fit-content;
   }
   section {
     display: inline-block;
