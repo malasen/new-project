@@ -144,4 +144,9 @@ footer::after {
   .fallcollection {
     max-width: 200px;
   }
+  section {
+    display: inline-block;
+    left: 0px;
+    top: 0px;
+  }
 }
