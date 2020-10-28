@@ -206,6 +206,10 @@ footer::after {
   .quickbrowse,
   .quickbrowse1,
   .quickbrowse2 {
+    display: inline-block;
+    left: 0px;
+    top: 0px;
+    max-height: 400px;
     flex-direction: column;
   }
 }
