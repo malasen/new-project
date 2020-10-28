@@ -138,6 +138,6 @@ footer::after {
   .rightnav {
     position: relative;
     right: 10px;
-    bottom: 20px;
+    bottom: 100px;
   }
 }
