@@ -155,9 +155,6 @@ footer::after {
   font-size: 30px;
 }
 @media only screen and (max-width: 900px) {
-  main {
-    text-align: center;
-  }
   .logo {
     width: 200px;
     position: relative;
@@ -180,7 +177,6 @@ footer::after {
   .fall div {
     position: relative;
     padding: 0;
-    margin: 0;
     margin-right: auto;
     margin-left: auto;
   }
