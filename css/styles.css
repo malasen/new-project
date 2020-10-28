@@ -124,7 +124,7 @@ footer::after {
     min-height: 400px;
   }
   nav li {
-    padding-left: 5px;
+    padding-left: 20x;
     padding-right: 10px;
   }
 }
