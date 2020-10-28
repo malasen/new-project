@@ -112,7 +112,7 @@ aside {
 }
 .quickbrowse {
   flex-direction: row;
-  position: relative;
+  position: absolute;
   left: 0px;
   right: 0px;
   display: block;
