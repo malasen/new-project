@@ -37,6 +37,12 @@ p {
   color: black;
   font-weight: lighter;
 }
+.button {
+  font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16pt;
+  color: black;
+  font-weight: lighter;
+}
 @media only screen and (max-width: 900px) {
   h1 {
     font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
@@ -74,6 +80,12 @@ p {
   .contact {
     font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 10pt;
+    color: black;
+    font-weight: lighter;
+  }
+  .button {
+    font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
     color: black;
     font-weight: lighter;
   }
