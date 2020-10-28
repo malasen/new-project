@@ -145,6 +145,11 @@ aside {
 a {
   color: inherit;
 }
+.leftcontainer {
+  background-color: var(--gray);
+  max-width: 300px;
+  min-height: fit-content;
+}
 footer {
   text-align: center;
 }
