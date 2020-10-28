@@ -113,14 +113,14 @@ aside {
 .quickbrowse {
   flex-direction: row;
   position: relative;
-  max-width: max-content;
+  min-width: fit-content;
   display: block;
   background-color: rgb(187, 183, 183);
   border: 1px thin rgb(102, 98, 98);
 }
 .jacketicon {
-  width: fit-content;
-  max-height: 2500px;
+  max-width: 250px;
+  max-height: 250px;
 }
 .active {
   background-color: rgb(241, 157, 0);
