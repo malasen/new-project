@@ -272,7 +272,6 @@ footer::after {
     float: none;
     margin-right: auto;
     margin-left: auto;
-    bottom: 50px;
     padding: 20px 5px;
   }
 }
