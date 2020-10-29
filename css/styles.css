@@ -259,7 +259,7 @@ footer::after {
     display: none;
   }
   .leftcontainer {
-    max-width: 100%;
+    max-width: 99%;
   }
   .rightcontainer {
     flex-direction: column;
