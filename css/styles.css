@@ -273,8 +273,6 @@ footer::after {
   }
   .rightcontainer .button {
     right: 0px;
-    bottom: 1000px;
-    margin-left: auto;
     margin: 0;
   }
 }
