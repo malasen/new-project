@@ -276,6 +276,7 @@ footer::after {
     margin-right: auto;
     right: 0px;
     top: 0px;
+    bottom: 100px;
     max-width: 100px;
     max-height: 30px;
   }
