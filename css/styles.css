@@ -273,6 +273,6 @@ footer::after {
     margin-right: auto;
     margin-left: auto;
     padding: 20px 5px;
-    width: 100%;
+    right: 0px;
   }
 }
