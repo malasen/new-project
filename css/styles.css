@@ -178,7 +178,7 @@ a {
 .rightcontainer .button {
   position: relative;
   right: 240px;
-  top: 270px;
+  top: 70px;
   max-width: 100px;
   max-height: 30px;
 }
@@ -267,7 +267,6 @@ footer::after {
   .shopicon {
     width: 100%;
     margin: 0;
-    left: 0%;
   }
   .rightcontainer .button {
     margin-right: auto;
