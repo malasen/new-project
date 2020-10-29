@@ -276,5 +276,6 @@ footer::after {
     margin-left: auto;
     right: 0px;
     bottom: 100px;
+    max-width: 100%;
   }
 }
