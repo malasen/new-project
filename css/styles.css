@@ -267,7 +267,7 @@ footer::after {
   .shopicon {
     width: 100%;
     margin: 0;
-    left: 0px;
+    right: 100%;
   }
   .rightcontainer .button {
     margin-right: auto;
