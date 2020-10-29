@@ -266,11 +266,12 @@ footer::after {
   }
   .shopicon {
     width: 100%;
+    margin: 0;
   }
   .rightcontainer .button {
     margin-right: auto;
     margin-left: auto;
     right: 0px;
-    top: 0px;
+    bottom: 100px;
   }
 }
