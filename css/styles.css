@@ -235,7 +235,7 @@ footer::after {
     margin-right: auto;
     margin-left: auto;
     bottom: 50px;
-    padding: 20px 5px;
+    padding: 5px 40px;
   }
 
   .fall {
@@ -272,7 +272,5 @@ footer::after {
     margin-left: auto;
     right: 0px;
     top: 0px;
-    padding-left: 20px;
-    padding-right: 20px;
   }
 }
