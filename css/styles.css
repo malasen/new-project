@@ -272,6 +272,7 @@ footer::after {
     margin-left: auto;
     right: 0px;
     top: 0px;
-    width: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
