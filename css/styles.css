@@ -171,8 +171,7 @@ a {
 }
 .rightcontainer {
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
+  left: 10px;
   display: flex;
   flex-direction: row;
 }
@@ -264,6 +263,7 @@ footer::after {
   }
   .rightcontainer {
     flex-direction: column;
+    left: 0px;
   }
   .shopicon {
     width: 100%;
