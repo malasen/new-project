@@ -147,7 +147,7 @@ aside {
   border: 2px solid var(--border);
   background-color: var(--gray);
   position: relative;
-  min-width: 350px;
+  min-width: 250px;
   max-height: 150px;
   right: 350px;
 }
@@ -157,7 +157,7 @@ aside {
   position: relative;
 }
 .fallicon {
-  max-width: 350px;
+  max-width: 250px;
   position: relative;
   top: 50px;
   padding-top: 200px;
