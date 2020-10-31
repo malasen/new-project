@@ -189,6 +189,9 @@ aside h1 {
   position: relative;
   left: 2%;
 }
+.fallshop {
+  background-image: url(../images/couple1.jpg) 0.7;
+}
 footer {
   text-align: center;
 }
