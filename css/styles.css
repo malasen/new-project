@@ -109,6 +109,7 @@ aside {
   display: inline-block;
   background-color: white;
   margin: 0;
+  right: 100px;
 }
 .instagram {
   left: 100px;
