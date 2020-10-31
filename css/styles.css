@@ -235,6 +235,9 @@ footer::after {
   bottom: 300px;
   margin-left: 300px;
 }
+.product img {
+  width: fit-content;
+}
 .productinfo {
   max-width: 900px;
 }
@@ -348,7 +351,7 @@ select {
     margin-left: 0px;
   }
   .product {
-    max-width: 300px;
+    max-width: 100%;
     margin: 0;
     padding: 0;
     bottom: 0px;
