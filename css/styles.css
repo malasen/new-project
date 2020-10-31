@@ -145,10 +145,11 @@ aside {
 }
 .shopinfo {
   background-color: var(--gray);
+  border: 2px solid var(--border);
   position: relative;
   min-width: 20%;
   max-height: 150px;
-  margin: 10px;
+  margin: 50px;
 }
 .jacketicon {
   max-width: 15%;
@@ -158,8 +159,7 @@ aside {
 .fallicon {
   max-width: 20%;
   position: relative;
-  top: 50px;
-  margin: 10px;
+  margin: 50px;
   border: 2px solid var(--border);
 }
 .active {
