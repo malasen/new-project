@@ -165,6 +165,9 @@ aside {
   top: 30px;
   right: 100px;
 }
+.fallshop .rightcontainer {
+  left: 0;
+}
 .active {
   background-color: var(--orange);
   color: white;
@@ -192,6 +195,7 @@ a {
 }
 .rightcontainer {
   position: relative;
+  left: 100px;
   display: flex;
   flex-direction: row;
 }
