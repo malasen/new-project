@@ -91,9 +91,9 @@ header {
 .fall div {
   position: relative;
   float: right;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px;
-  margin: 75px 85px 50px;
 }
 .button {
   padding: 5px 40px;
