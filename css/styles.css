@@ -240,6 +240,8 @@ footer::after {
 }
 .productinfo .button {
   max-width: 200px;
+  display: flex;
+  flex-direction: row;
 }
 select {
   min-width: 500px;
