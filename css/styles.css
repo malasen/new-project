@@ -152,7 +152,9 @@ aside {
   margin: 50px;
   right: 5px;
   bottom: 90px;
-  padding-left: 10px;
+}
+.shopinfo h3 {
+  padding-left: 20px;
 }
 .jacketicon {
   max-width: 15%;
