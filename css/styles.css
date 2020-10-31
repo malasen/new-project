@@ -149,8 +149,8 @@ aside {
   border: 2px solid var(--border);
   background-color: var(--gray);
   position: relative;
-  top: 200px;
-  right: 100px;
+  top: 500px;
+  right: 500px;
 }
 .jacketicon {
   max-width: 15%;
