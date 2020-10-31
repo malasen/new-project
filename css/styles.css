@@ -382,14 +382,12 @@ select {
     bottom: 0px;
   }
   .fallicon {
-    min-width: 100%;
+    min-width: 99%;
     position: relative;
     margin: 0px;
     top: 0px;
     right: 0px;
   }
-  .fallicon img {
-    width: 100%;
   }
   .fallshop {
     display: flex;
