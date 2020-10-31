@@ -376,7 +376,7 @@ select {
     margin-right: auto;
   }
   .shopinfo {
-    min-width: 100%;
+    min-width: 99%;
     margin: 0px;
     right: 0px;
     bottom: 0px;
