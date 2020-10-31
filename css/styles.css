@@ -235,6 +235,11 @@ footer::after {
   bottom: 300px;
   margin-left: 300px;
 }
+.productinfo {
+  max-width: 900px;
+  display: flex;
+  flex-direction: row;
+}
 .productinfo .button {
   max-width: 200px;
 }
