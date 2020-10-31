@@ -193,6 +193,8 @@ aside h1 {
   background-image: url(../images/couple2.jpg);
   background-size: cover;
   margin: 0;
+  padding: 0;
+  position: relative;
 }
 footer {
   text-align: center;
