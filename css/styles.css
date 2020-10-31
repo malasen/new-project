@@ -236,7 +236,9 @@ footer::after {
   margin-left: 300px;
 }
 select {
-  min-width: 200px;
+  min-width: 500px;
+  border-radius: 5px;
+  border: 2px solid black;
 }
 @media only screen and (max-width: 1200px) {
   .logo {
