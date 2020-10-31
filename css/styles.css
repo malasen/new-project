@@ -113,7 +113,8 @@ aside {
   margin: 0;
 }
 .instagram {
-  left: 50px;
+  left: 100px;
+  margin-left: 20px;
 }
 .insta {
   max-width: 750px;
