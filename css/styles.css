@@ -153,7 +153,8 @@ aside {
   right: 5px;
   bottom: 90px;
 }
-.shopinfo h3 {
+.shopinfo h3,
+.shopinfo p {
   padding-left: 20px;
 }
 .jacketicon {
