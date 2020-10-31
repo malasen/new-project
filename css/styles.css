@@ -236,7 +236,7 @@ footer::after {
   margin-left: 300px;
 }
 .productinfo .button {
-  min-width: 200px;
+  max-width: 200px;
 }
 select {
   min-width: 500px;
