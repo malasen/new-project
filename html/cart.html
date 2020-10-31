@@ -23,35 +23,28 @@
         <ul class="rightnav">
           <li><a href="signin.html"><i class="fas fa-user"></i>Sign in</a></li>
           <li><a href="stores.html"><i class="fas fa-map-marker-alt"></i>Find a Store</a></li>
-          <li><a href="cart.html"><i class="fas fa-shopping-basket"></i>Cart</a></li>
+          <li><a href="cart.html" class="active"><i class="fas fa-shopping-basket"></i>Cart</a></li>
         </ul>
       </nav>
       <a href="../index.html"> <img src="../images/logo.png" alt="rainydays logo" class="logo"></a>
       <a href="contact.html" class="contact">Contact Us <i class="far fa-envelope"></i><i class="fab fa-twitter"></i><i class="fab fa-facebook-f"><i class="fab fa-instagram"></i></i></a></li>
     </header>
     <main>
-      <h1>About Us</h1>
-      <p>
-        Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
-        sit amet.Lorem ipsum dolor sit amet.
-      </p>
-      <h2>Lorem Ipsum</h2>
-      <p>
-        Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
-        sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem
-        ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit
-        amet.
-      </p>
-      <h3>Lorem Ipsum</h3>
-      <p>Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
-        sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem
-        ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit
-        amet.</p>
-        <h3>Lorem Ipsum</h3>
-        <p>Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor
-          sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem
-          ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit
-          amet.</p>
+      <form>
+        <fieldset>
+          <legend>Your details</legend>
+          <label for="name">Your Name</label>
+          <input type="text" name="name" id="name" class="form__input" required>
+          <label for="phone">Your Number</label>
+          <input type="tel" name="phone" id="phone" class="form__input">
+          <label for="email">Your Email</label>
+          <input type="email" name="email" id="email" class="form__input" required>
+        </fieldset>
+        <fieldset>
+<legend>Your Comments</legend>
+        </fieldset>
+        <input type="submit" value="Send">
+      </form>
     </main>
     <footer>Copyright &copy;</footer>
   </body>
