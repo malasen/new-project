@@ -144,8 +144,7 @@ aside {
   background-color: var(--gray);
 }
 .shopinfo {
-  max-width: 400px;
-  max-height: 200px;
+  width: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
   position: relative;
