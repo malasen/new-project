@@ -152,6 +152,7 @@ aside {
   margin: 50px;
   right: 5px;
   bottom: 90px;
+  padding-left: 10px;
 }
 .jacketicon {
   max-width: 15%;
@@ -206,9 +207,6 @@ a {
   top: 250px;
   max-width: 100px;
   max-height: 30px;
-}
-.rightcontainer h3 {
-  padding-left: 10px;
 }
 aside h1 {
   position: relative;
