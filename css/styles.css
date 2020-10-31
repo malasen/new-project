@@ -164,6 +164,7 @@ aside {
   border: 2px solid var(--border);
   position: relative;
   top: 20px;
+  padding: 50px;
 }
 .active {
   background-color: var(--orange);
