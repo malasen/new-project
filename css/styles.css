@@ -230,7 +230,7 @@ footer::after {
   font-size: 30px;
 }
 .product {
-  max-width: 900px;
+  max-width: 50%;
   position: relative;
   bottom: 300px;
   left: 300px;
