@@ -138,8 +138,8 @@ aside {
   display: block;
 }
 .shopicon {
-  width: 400px;
-  height: 400px;
+  max-width: 400px;
+  max-height: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
 }
@@ -153,8 +153,10 @@ aside {
   right: 100px;
 }
 .jacketicon {
-  max-width: 10%;
-  max-height: 20%;
+}
+.fallicon {
+  max-width: 20%;
+  max-height: 30%;
   border: 2px solid var(--border);
 }
 .active {
