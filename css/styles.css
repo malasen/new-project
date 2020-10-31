@@ -364,10 +364,10 @@ select {
   }
   .productinfo .button {
     max-width: 150px;
-    margin: 0;
+    margin: 2px;
     margin-left: auto;
     margin-right: auto;
-    top: 50px;
+    top: 30px;
   }
   select {
     width: 300px;
