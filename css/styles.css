@@ -240,8 +240,6 @@ footer::after {
 }
 .productinfo .button {
   max-width: 200px;
-  display: flex;
-  flex-direction: row;
 }
 select {
   min-width: 500px;
@@ -348,5 +346,8 @@ select {
   .instagram {
     left: 0px;
     margin-left: 0px;
+  }
+  .product {
+    max-width: 50%;
   }
 }
