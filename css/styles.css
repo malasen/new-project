@@ -384,7 +384,7 @@ select {
   .fallicon {
     min-width: 99%;
     position: relative;
-    margin: 50px;
+    margin: 50px 0px;
     top: 0px;
     right: 0px;
   }
