@@ -232,8 +232,8 @@ footer::after {
 .product {
   max-width: 1000px;
   position: relative;
-  bottom: 400 px;
-  left: 400px;
+  bottom: 300px;
+  left: 300px;
 }
 @media only screen and (max-width: 1200px) {
   .logo {
