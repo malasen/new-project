@@ -205,7 +205,7 @@ aside h1 {
 }
 .fallshop {
   background-image: url(../images/couple2.jpg);
-  background-size: cover;
+  background-size: 100%;
   margin: 0;
   padding: 0;
 }
