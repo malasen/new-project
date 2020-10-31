@@ -112,6 +112,9 @@ aside {
   background-color: white;
   margin: 0;
 }
+.instagram {
+  left: 50px;
+}
 .insta {
   max-width: 750px;
 }
