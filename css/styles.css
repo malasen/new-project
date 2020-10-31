@@ -196,7 +196,7 @@ a {
 }
 .rightcontainer {
   position: relative;
-  left: 300px;
+  left: 0px;
   display: flex;
   flex-direction: row;
 }
