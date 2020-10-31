@@ -158,6 +158,8 @@ aside {
   max-width: 20%;
   max-height: 30%;
   border: 2px solid var(--border);
+  position: relative;
+  top: 20px;
 }
 .active {
   background-color: var(--orange);
