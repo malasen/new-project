@@ -150,7 +150,7 @@ aside {
   min-width: 20%;
   max-height: 150px;
   margin: 50px;
-  right: 50px;
+  right: 100px;
 }
 .jacketicon {
   max-width: 15%;
@@ -163,7 +163,7 @@ aside {
   margin: 50px;
   border: 2px solid var(--border);
   top: 30px;
-  right: 50px;
+  right: 100px;
 }
 .active {
   background-color: var(--orange);
