@@ -138,12 +138,13 @@ aside {
   display: block;
 }
 .shopicon {
-  padding: 20px 100px;
+  max-width: 400px;
   max-height: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
 }
 .shopinfo {
+  padding: 20px 100px;
   height: 200px;
   border: 2px solid var(--border);
   background-color: var(--gray);
