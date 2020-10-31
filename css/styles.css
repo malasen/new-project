@@ -377,7 +377,7 @@ select {
   }
   .shopinfo {
     max-width: 99%;
-    margin: 0px;
+    margin: 0px 200px;
     right: 0px;
     bottom: 0px;
   }
