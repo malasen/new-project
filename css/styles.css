@@ -389,6 +389,7 @@ select {
     right: 0px;
   }
   .fallshop {
+    width: 100%;
     display: flex;
     flex-direction: column;
   }
