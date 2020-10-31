@@ -388,6 +388,9 @@ select {
     top: 0px;
     right: 0px;
   }
+  .fallicon img {
+    width: 100%;
+  }
   .fallshop {
     display: flex;
     flex-direction: column;
