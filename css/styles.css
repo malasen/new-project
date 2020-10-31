@@ -357,8 +357,10 @@ select {
     bottom: 0px;
   }
   .productinfo {
-    max-width: 100%;
+    max-width: 220px;
     margin: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
   .productinfo .button {
     max-width: 50%;
