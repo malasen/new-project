@@ -288,4 +288,8 @@ footer::after {
     position: relative;
     left: 0px;
   }
+  .instagram {
+    left: 0px;
+    margin-left: 0px;
+  }
 }
