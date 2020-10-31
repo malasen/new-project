@@ -144,13 +144,9 @@ aside {
   background-color: var(--gray);
 }
 .shopinfo {
-  padding: 0px 130px;
-  height: 150px;
   border: 2px solid var(--border);
   background-color: var(--gray);
   position: relative;
-  top: 500px;
-  right: 370px;
 }
 .jacketicon {
   max-width: 15%;
