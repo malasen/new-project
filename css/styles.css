@@ -208,9 +208,6 @@ aside h1 {
   background-size: cover;
   margin: 0;
   padding: 0;
-  position: relative;
-  right: 10px;
-  bottom: 10px;
 }
 footer {
   text-align: center;
