@@ -237,8 +237,6 @@ footer::after {
 }
 .productinfo {
   max-width: 900px;
-  display: flex;
-  flex-direction: row;
 }
 .productinfo .button {
   max-width: 200px;
