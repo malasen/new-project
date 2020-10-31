@@ -72,7 +72,6 @@ header {
   text-align: center;
   margin: 0;
 }
-
 .fall {
   display: inline-block;
   position: relative;
@@ -153,7 +152,6 @@ aside {
   right: 5px;
   bottom: 90px;
   text-align: center;
-}
 }
 .jacketicon {
   max-width: 15%;
