@@ -158,7 +158,7 @@ a {
   position: relative;
   bottom: 10px;
   background-color: var(--gray);
-  max-width: 370px;
+  min-width: 370px;
   min-height: fit-content;
   text-align: center;
 }
