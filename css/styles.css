@@ -190,7 +190,7 @@ aside h1 {
   left: 2%;
 }
 .fallshop {
-  background-image: url(../images/couple1.jpg) 0.7;
+  background-image: url(../images/couple1.jpg);
   min-height: 1500px;
 }
 footer {
