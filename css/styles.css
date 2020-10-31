@@ -191,6 +191,7 @@ aside h1 {
 }
 .fallshop {
   background-image: url(../images/couple1.jpg) 0.7;
+  min-width: contain;
 }
 footer {
   text-align: center;
