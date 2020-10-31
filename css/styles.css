@@ -138,8 +138,7 @@ aside {
   display: block;
 }
 .shopicon {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding: 20px 100px;
   max-height: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
