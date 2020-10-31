@@ -149,6 +149,7 @@ aside {
   position: relative;
   min-width: 20%;
   max-height: 150px;
+  margin: 10px;
 }
 .jacketicon {
   max-width: 15%;
@@ -160,6 +161,7 @@ aside {
   position: relative;
   top: 50px;
   padding-top: 200px;
+  margin: 10px;
 }
 .active {
   background-color: var(--orange);
