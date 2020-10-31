@@ -142,13 +142,13 @@ aside {
   max-height: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
-  right: 350px;
 }
 .shopinfo {
   border: 2px solid var(--border);
   background-color: var(--gray);
   position: relative;
   min-width: 350px;
+  right: 350px;
 }
 .jacketicon {
   max-width: 15%;
