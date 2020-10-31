@@ -148,6 +148,9 @@ aside {
   max-height: 400px;
   border: 2px solid var(--border);
   background-color: var(--gray);
+  position: relative;
+  right: 400px;
+  top: 400px;
 }
 .jacketicon {
   max-width: 10%;
