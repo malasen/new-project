@@ -229,6 +229,12 @@ footer::after {
   color: black;
   font-size: 30px;
 }
+.product {
+  max-width: 1000px;
+  position: relative;
+  bottom: 400 px;
+  left: 400px;
+}
 @media only screen and (max-width: 1200px) {
   .logo {
     width: 200px;
