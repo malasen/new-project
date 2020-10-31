@@ -43,6 +43,11 @@ p {
   color: black;
   font-weight: lighter;
 }
+select {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--border);
+  font-size: 13pt;
+}
 @media only screen and (max-width: 900px) {
   h1 {
     font-family: "bebas neue", Verdana, Geneva, Tahoma, sans-serif;
