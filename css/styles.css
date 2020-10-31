@@ -236,7 +236,7 @@ footer::after {
   margin-left: 300px;
 }
 .product img {
-  width: fit-content;
+  max-width: 100%;
 }
 .productinfo {
   max-width: 900px;
