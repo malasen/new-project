@@ -233,7 +233,7 @@ footer::after {
   width: 50%;
   position: relative;
   bottom: 300px;
-  left: 300px;
+  margin-left: 300px;
 }
 @media only screen and (max-width: 1200px) {
   .logo {
