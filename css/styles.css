@@ -356,4 +356,16 @@ select {
     padding: 0;
     bottom: 0px;
   }
+  .productinfo {
+    max-width: 100%;
+    margin: 0;
+  }
+  .productinfo .button {
+    max-width: 100%;
+    margin: 0;
+  }
+  select {
+    width: 100%;
+    margin: 0;
+  }
 }
