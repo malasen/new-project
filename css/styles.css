@@ -211,14 +211,7 @@ a {
 aside h1 {
   position: relative;
 }
-.fallshop {
-  background-image: url(../images/couple2.jpg);
-  background-size: cover;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  right: 10px;
-  bottom: 10px;
+s
 }
 footer {
   text-align: center;
@@ -387,5 +380,24 @@ select {
     margin: 0px;
     top: 0px;
     right: 0px;
-
+  }
+  .shopinfo {
+    background-color: var(--gray);
+    border: 2px solid var(--border);
+    position: relative;
+    min-width: 20%;
+    max-height: 150px;
+    margin: 50px;
+    right: 5px;
+    bottom: 90px;
+    text-align: center;
+  }
+  .jacketicon {
+    max-width: 15%;
+    border: 2px solid var(--border);
+    position: relative;
+  }
+  .fallicon {
+    display: flex;
+    flex-direction: column;
 }
