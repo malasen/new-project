@@ -253,6 +253,9 @@ fieldset {
   display: flex;
   flex-direction: column;
 }
+.thumbnail {
+  max-width: 100px;
+}
 @media only screen and (max-width: 1200px) {
   .logo {
     width: 200px;
