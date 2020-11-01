@@ -249,6 +249,10 @@ select {
   border-radius: 5px;
   border: 2px solid black;
 }
+fieldset {
+  display: flex;
+  flex-direction: column;
+}
 @media only screen and (max-width: 1200px) {
   .logo {
     width: 200px;
